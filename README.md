@@ -1,4 +1,4 @@
-# SAL_BW_Project_1 — Masai School Build-Week Project (2025)
+# Webscraping-SQL-EDA — Masai School Build-Week Project (2025)
 
 **Role**: Team Member (1 of 3)  
 **Focus Areas**: Web Scraping · SQL Insights · Exploratory Data Analysis (EDA)
@@ -6,7 +6,7 @@
 ---
 
 ##  Project Overview
-This build-week project aimed to scrape book data, analyze it using SQL, and derive insights through EDA and visualizations.
+This build-week project (Masai School) focused on scraping book data from the web, analyzing it using SQL, and deriving insights through Exploratory Data Analysis (EDA).
 
 ---
 
@@ -43,8 +43,8 @@ This build-week project aimed to scrape book data, analyze it using SQL, and der
 ##  How to Run Locally
 ```bash
 # Clone repo
-git clone https://github.com/princerg/SAL_BW_Project_1.git
-cd SAL_BW_Project_1
+git clone https://github.com/princerg/webscraping-sql-eda.git
+webscraping-sql-eda
 
 # Install dependencies (if any)
 pip install -r requirements.txt
